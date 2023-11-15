@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nived-Manoj
+- 👋 Hi, I’m Nived-Manoj
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently working on Flutter
 - 📫 Reach me @ nivedmanoj001@gmail.com 
